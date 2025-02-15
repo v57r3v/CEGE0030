@@ -1,27 +1,74 @@
 java c
-CEGE0030 – Roads and Underground Infrastructure 
-TUNNELS COURSE WORK 
-- This coursework will   be done   in groups   of   3   persons.
-- As part of the coursework, you need to define a group leader to communicate with the   coursework coordinator
-- As a group you must organise   meetings to discuss the coursework progression and create minutes that will   be   used to demonstrate   how you divided the work and   how   you   have   informed your peers. A simple and effective model   of the   minutes   is available for   download   on   moodle   and these must be attached to the end of your submitted coursework. 
-- These documents are the only   way to calculate a   scale factor to   derive the   individual   mark,   from   the final coursework mark. Small differences in workload are expected but you should balance the proportion of work amongst group members.
-Introduction and scope of the project 
-Your   team is required   to design the northern branch of   the Crossrail 2 (CR2) line, going from Alexandra Palace to Seven Sisters (Figure   1);   however,   rather than having a stop   at Turnpike   Lane station, your stop   must   be at Wood Green station.   New Southgate will   be a terminal station and the exact   location of   the portal has not been defined yet. Your design should consider that the springline of   your tunnel is located at a depth of 20m below Alexandre Palace station, at an alignment similar to the railway alignment   aboveground; this is your starting point. The running tunnels, at Seven Sisters, must be pointing south, towards Dalston Kingsland, aligned with the A10      near Seven Sisters station.   The client also wants Seven Sisters station on the CR2   line, to   have access to   both      South   Tottenham   station   on   theovergroundlineandSevenSistersStationontheVictorialineand Rail Network.   Therefore, you must decide where the   platform. tunnels will   be   located, to   give   the   best   possible   access      to the lines mentioned above.
-During the design, the following aspects (not limited to)   must be considered:
--A geotechnical soil profile along the   route must   be created, together with the likely   problems that may   be encountered during   the excavation of   the   tunnels.
-- Horizontal and   Vertical alignments of   the   tunnel, as well as   the geology excavated must be   supplied.
-- The   line will   be composed by twin tunnels wi代 写CEGE0030 – Roads and Underground Infrastructure
-代做程序编程语言th an internal diameter of   7   m.
-- A definition of the type of TBM   machine that   shall   be   used,   as well   as   an   estimation   of the pressures required by the ground, in order to allow excavation to proceed safely must be calculated and shown in   the report.
--Shafts   for   ventilation and emergency access   to   the   tunnels must be designed along   the line.   Your   team must decide what is the   best   location for the shafts, as   well   ashow   it will   influence the   alignment.   A   small paragraph with an explanation   must   be provided. 
+CEGE0030 - ROADS AND UNDERGROUND INFRASTRUCTURES 
+Academic year: 2024-25 Assignment: Coursework on   Roads Weight: 20%
+Deadline: 7th    of   February 2025,   2:00   pm
+Type of submission: Electronic copy   (in Turnitin,   Moodle). Only one   student   per   group   submits.
+Type of assignment: groups   of 3   students
+Word count limit: 2,500 words excluding   reference   list, tables, graphs and   figures,   and   appendices
+Brief: The    objective    of   this    project    is    to    design    a    new    road      in    the    area      of    Sheffield,      alignmening    with   infrastructure   development   priorities   in the   Midlands   and   Northern   England. The   road   connects two   villages   and   comprises   two   lanes   (one   per   direction),   with   a   total   daily   average   traffic   flow   of   9,500   vehicles   (70/30%   split). The traffic   study   indicates that   35% of vehicles   are   heavy,   with   each   tupically   having three axles. The   road’s design   life   is set at   40   years.
+The   chosen   cross-section   is   on   a   straight   reach   of   the   road   (no   curvature   in   the   plan   view),   and   the   alignment   raises the   road elevation   by   1.2   m above the   natural ground   level.
+Materials and Geotechnical Conditions 
+•          Natural   Ground:   Moderate   plastic   clay   (CH),   with:
+o   California   Bearing   Ratio   (CBR): 5%
+o   Maximum   Dry   Density   (Proctor Test):   1620   kg/m³   (15%   water content)
+o   Bulk Gravity:   2670   kg/m³
+o   Natural Water   Content: 25%
+•            Local   Material Availability:
+1.          Poorly Graded   Sand   (SP)   (3   km   away):
+o   CBR:   27%
+o   Optimum   Dry   Density:   1950   kg/m³   (10% water content)
+o   Bulk Gravity:   2650   kg/m³
+o   Natural Water Content:   8%
+o   Suitable for subgrade   but   not as   base or   subbase.
+2.          Well-Graded Gravel with some fines   (GW)   (15   km   away):
+o   CBR:   85%
+o   Optimum   Dry   Density:   2100   kg/m³   (7.5% water content)
+o   Bulk Gravity:   2650   kg/m³
+o   Natural Water Content:   6%
+o   Suitable for subbase   but   not as   a   base   layer.
+•            Cross-Section   Details
+o   Lane Width: 3.8   m   per   lane.
+o   Shoulder Width:   1.5   m each   side.
+o   Pavement   Lateral slope:   1:1.2.
+o   Embankment   Laterail Slope:   1:1.5   (V:H).
+o   The      pavement      layers    are       homogeneous    across    the      full      cross-section,       including    the   shoulders.
+Required Tasks 
+1. Pavement Design 
+Use   the    classical    CBR    methodology   to    design    a    flexible    pavement    solution.    Specify    the    materials   selected for:
+•             Subgrade•             Subbase   (if   needed)
+•               Base
+•             Surface   layersInclude   across-sectional   engineering   plot with   descriptions   of   materials, sizes,   and   units. Justify your   solution and why this better than other options, based on cost effectiveness, construction procedures,   environmental aspects, etc.
+2. Embankment Analysis 
+Assume:
+•             All   layers are compacted to 95%   of their   optimum   dry   density.
+•             The   phreatic   level aligns with the current   natural   soil   level.
+•             Embankment water content   is   initially   at   its   natural   level.   Determine:
+•             Final void   ratio, dry   density,   and   density with   moisture   for the   embankment   material.
+•             Effective vertical   normal stress   at the   subgrade   level.
+•             Elastic settlement of the   natural   soil   due   to   embankment   and   pavement   weight.
+3. Rainfall Impact Analysis 
+Assume:
+•               Lateral drainage   is   blocked.
+•               Longitudinal   road slope   is   null.
+•             Rainfall    intensity    equals    the    average    daily    rate    for    Sheffield    over    three    consecutive    days   (source:Met Office).
+Evaluate:   whether   the   water   level   will   reach   the   subgrade   and   recalculate   effective   normal   stresses   after the   rainfall.
+Updated Costs of the materials 
+The following costs   reflect current   UK   market   rates   (as of January   2025):
+1. Transport of Embankment Material: £2.0/m³   per   km.
+2. Compaction (to 95% Modified Proctor): £65/m³   .
+3. Hydraulically Bound Layers: £90/m³   (final density: 2400   kg/m³).
+4. Granular Material for Base: £60/m³   (final density:   1950   kg/m³; CBR:   90%).
+5. Granular Material for Subbase: £40/m³   (final density:   1750   kg/m³;   CBR: 55%).
+6. Asphalt Concrete: £135/m³   (final density: 2500   kg/m³).
+For additional costs are   needed,   include sources   and justification.
+References 
+Provide all sources   used for calculations,   material costs,   and   rainfall   data   in your   report.
+Note: Ensure all assumptions are justified, and calculations are clearly   presented for full transparency   and credit   allocation.
+Use of Generative AI: The   use   of   Generative   AI   (GenAI)   is   permitted   for   the   review   and   improvement   of   the   style   of   your   report.   However,   it   should   not   be   used for   performing   calculations   or generating   results.   Ensure that   all calculations and   results are your   own   work.
 
-Figure   1 – Part of the Crossrail2   project to   be designed inside the red circle.-Platform. tunnels   must   be   located   as   near   as   possible to the   existing   stations. At   this   stage   stations   will   not   be   redesigned   but   connection   to   the   existing   stations   and   location   of   the   escalator   tunnels   must   be   specified on the drawings of your proposed station and connections.
--A calculation of   the stresses likely   to be encountered on   the tunnel lining and caused by   the soil load,   together with a surcharge of 65kPa, must   be   calculated.
--A settlement through must be created considering a face loss of 0.25, 0.5 and 1.0%, over the whole area   of   the tunnel.
--An analysis of the structures that are likely to suffer from differential settlements, between Wood   Green and Seven Sisters stations must be performed. This must include listed   buildings.
-Deliverable 
-You are   required to write a   report, with no more than 2000   words   in the   main   text   (excluding   captions,   references, summary and index), explaining briefly   your considerations and assumptions. Most of the information should be conveyed with drawings and sketches and there is no limit for these.   Please make sure that your drawings or sketches have scales and areworded to convey the right information. Sketches without a number or a name will be ignored and not considered on the marks. 
-At the end of   your coursework, a set of meeting dates and minutes, describing what was agreed and spoken   during the   meetings   may   be submitted as an appendix – there   is   no   limit of   words. This   part   will   only   be   used in case there are disputes   related how much each team   member   has contributed to the final report.
+Figure   1. Compaction curves   (PM) for the three   possible subgrades
+
+
 
 
 
